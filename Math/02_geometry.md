@@ -818,4 +818,4 @@ Triangle with sides 2, 3, 4
 Remember: Practice with different triangle types helps master these
 concepts. Each center has unique properties that make triangles and
 circles beautifully interconnected in geometry! 🌟
-```
+
