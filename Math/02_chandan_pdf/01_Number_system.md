@@ -16,7 +16,7 @@ Here are all the questions from the provided PDF sources, presented in a compreh
     *   C) 5070 and 5080
     *   D) 5090 and 5100
 
-3.  **Q3:** **Simplify:** $\sqrt{\frac{5832}4{10000}}\times \frac{5}{24} \times 78$
+3.  **Q3:** **Simplify:** $\sqrt{\frac{5832}{410000}}\times \frac{5}{24} \times 78$
     *   A) 21
     *   B) 13
     *   C) 8
